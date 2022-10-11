@@ -1,0 +1,9 @@
+[package]
+name = "kont_utils"
+version = "0.1.0"
+authors = ["Alexey Voznyuk <me@swizard.info>"]
+description = "Linear types continuation based algorithm collections."
+edition = "2021"
+
+[dev-dependencies]
+rand = "^0.8"
